@@ -1,2 +1,2 @@
 # meteoroids
-An asteoroids-like video game project for learning purposes.
+An asteoroids-like video game project in Python for learning purposes.
